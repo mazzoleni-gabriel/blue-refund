@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+    .NewRevenue {
+      padding: 60px 0;
+    }
+  
+    .NewRevenue form {
+      margin: 0 auto;
+      max-width: 220px;
+    }
+  }
